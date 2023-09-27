@@ -1,4 +1,4 @@
-package service;
+package model.service;
 
 import java.net.URI;
 import java.net.http.HttpClient;
